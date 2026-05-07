@@ -1,4 +1,6 @@
 # Kesko Nordic Internet Breakout Geofeed
-# Updated: 2026-04-22
+# Updated: 2026-05-07
+# RFC 8805 / RFC 9632
+# Contact: network@kesko.fi
 #
-193.143.160.0/28,DK,DK-84,,
+193.143.160.0/28,DK,,,
