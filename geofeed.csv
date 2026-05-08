@@ -1,6 +1,11 @@
 # Kesko Nordic Internet Breakout Geofeed
-# Updated: 2026-05-07
+# Updated: 2026-05-08
 # RFC 8805 / RFC 9632
 # Contact: network@kesko.fi
 #
 193.143.160.0/28,DK,,,
+
+# Future — Nordic Core, Stockholm
+# 193.143.161.0/28,SE,,,
+# 193.143.161.16/28,NO,,,
+# 193.143.161.32/28,DK,,,
