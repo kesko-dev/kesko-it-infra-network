@@ -1,7 +1,14 @@
 # Kesko Nordic Internet Breakout Geofeed
-# Updated: 2026-08-21
+# Updated: 2026-09-07
 # RFC 8805 / RFC 9632
 # Contact: network@kesko.fi
+#
+# Current - Elisa Finland Breakout
+157.144.0.0/17,FI,,,
+157.144.128.0/20,FI,,,
+157.144.152.0/21,FI,,,
+157.144.160.0/19,FI,,,
+157.144.192.0/18,FI,,,
 #
 # Current - Telia Sweden Breakout
 193.143.160.0/28,DK,,,
